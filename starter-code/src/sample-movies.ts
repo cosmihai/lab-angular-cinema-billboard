@@ -1,3 +1,5 @@
+const movies: Object [] =
+
 [
   {
     id: 1,
@@ -72,7 +74,7 @@
       "Gary Oldman"
     ]
   }, {
-  {
+
     id: 5,
     title: "Schindler's List",
     poster: "https://i.imgur.com/IWZJOmu.jpg",
@@ -92,3 +94,4 @@
     ]
   }
 ]
+export default movies;
